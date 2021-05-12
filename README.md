@@ -8,9 +8,13 @@
   
 #### User/Customer
   username: doej
+  
   password: password
   
+  --------------------
+  
   username: whiteb
+  
   password: abcdefgh
 
 
